@@ -1,0 +1,2 @@
+#!/bin/bash
+cat fake_bright/version.json

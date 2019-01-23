@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Version displayed",
+    "stdout": "1.0.2-next.201806261725\n",
+    "stderr": "",
+    "data": {
+      "version": "1.0.2-next.201806261725\n"
+    }
+}
