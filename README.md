@@ -122,7 +122,7 @@ Full installation instructions are at <https://docops.ca.com/ca-brightside-commu
 Licence
 -------
 
-MIT
+EPL-2.0
 
 Authors
 -------
